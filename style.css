@@ -1,0 +1,44 @@
+body{
+    background-color: chocolate;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 30px;
+    font-family: fantasy;
+}
+
+#timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 100px;
+    font-family: fantasy;
+}
+
+#sketch_to_be_drawn{
+    color: brown;
+    font-size: 35px;
+    font-family: fantasy;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: burlywood;
+    background-color: brown;
+    font-family: fantasy;
+}
+
+button{
+    float: right;
+}
+
+#yourSketch{
+    font-size: 35px;
+    font-family: fantasy;
+}
+
+#confidence{
+    font-size: 35px;
+    font-family: fantasy;
+}
